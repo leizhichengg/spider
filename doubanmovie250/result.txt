@@ -1,0 +1,2224 @@
+{
+    "index": "1",
+    "title": "肖申克的救赎",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+    "link": "https://movie.douban.com/subject/1292052/",
+    "director": "导演: 弗兰克·德拉邦特 Frank Darabont",
+    "star": "主演: 蒂姆·罗宾斯 Tim Robbins /...",
+    "releasetime": "1994",
+    "score": "9.6"
+}{
+    "index": "2",
+    "title": "霸王别姬",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg",
+    "link": "https://movie.douban.com/subject/1291546/",
+    "director": "导演: 陈凯歌 Kaige Chen",
+    "star": "主演: 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
+    "releasetime": "1993",
+    "score": "9.6"
+}{
+    "index": "3",
+    "title": "这个杀手不太冷",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg",
+    "link": "https://movie.douban.com/subject/1295644/",
+    "director": "导演: 吕克·贝松 Luc Besson",
+    "star": "主演: 让·雷诺 Jean Reno / 娜塔莉·波特曼 ...",
+    "releasetime": "1994",
+    "score": "9.4"
+}{
+    "index": "4",
+    "title": "阿甘正传",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg",
+    "link": "https://movie.douban.com/subject/1292720/",
+    "director": "导演: 罗伯特·泽米吉斯 Robert Zemeckis",
+    "star": "主演: 汤姆·汉克斯 Tom Hanks / ...",
+    "releasetime": "1994",
+    "score": "9.4"
+}{
+    "index": "5",
+    "title": "美丽人生",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg",
+    "link": "https://movie.douban.com/subject/1292063/",
+    "director": "导演: 罗伯托·贝尼尼 Roberto Benigni",
+    "star": "主演: 罗伯托·贝尼尼 Roberto Beni...",
+    "releasetime": "1997",
+    "score": "9.5"
+}{
+    "index": "6",
+    "title": "泰坦尼克号",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg",
+    "link": "https://movie.douban.com/subject/1292722/",
+    "director": "导演: 詹姆斯·卡梅隆 James Cameron",
+    "star": "主演: 莱昂纳多·迪卡普里奥 Leonardo...",
+    "releasetime": "1997",
+    "score": "9.3"
+}{
+    "index": "7",
+    "title": "千与千寻",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1606727862.jpg",
+    "link": "https://movie.douban.com/subject/1291561/",
+    "director": "导演: 宫崎骏 Hayao Miyazaki",
+    "star": "主演: 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
+    "releasetime": "2001",
+    "score": "9.3"
+}{
+    "index": "8",
+    "title": "辛德勒的名单",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg",
+    "link": "https://movie.douban.com/subject/1295124/",
+    "director": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg",
+    "star": "主演: 连姆·尼森 Liam Neeson...",
+    "releasetime": "1993",
+    "score": "9.5"
+}{
+    "index": "9",
+    "title": "盗梦空间",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg",
+    "link": "https://movie.douban.com/subject/3541415/",
+    "director": "导演: 克里斯托弗·诺兰 Christopher Nolan",
+    "star": "主演: 莱昂纳多·迪卡普里奥 Le...",
+    "releasetime": "2010",
+    "score": "9.3"
+}{
+    "index": "10",
+    "title": "忠犬八公的故事",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.jpg",
+    "link": "https://movie.douban.com/subject/3011091/",
+    "director": "导演: 莱塞·霍尔斯道姆 Lasse Hallström",
+    "star": "主演: 理查·基尔 Richard Ger...",
+    "releasetime": "2009",
+    "score": "9.3"
+}{
+    "index": "11",
+    "title": "机器人总动员",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg",
+    "link": "https://movie.douban.com/subject/2131459/",
+    "director": "导演: 安德鲁·斯坦顿 Andrew Stanton",
+    "star": "主演: 本·贝尔特 Ben Burtt / 艾丽...",
+    "releasetime": "2008",
+    "score": "9.3"
+}{
+    "index": "12",
+    "title": "三傻大闹宝莱坞",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg",
+    "link": "https://movie.douban.com/subject/3793023/",
+    "director": "导演: 拉库马·希拉尼 Rajkumar Hirani",
+    "star": "主演: 阿米尔·汗 Aamir Khan / 卡...",
+    "releasetime": "2009",
+    "score": "9.2"
+}{
+    "index": "13",
+    "title": "海上钢琴师",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p511146807.jpg",
+    "link": "https://movie.douban.com/subject/1292001/",
+    "director": "导演: 朱塞佩·托纳多雷 Giuseppe Tornatore",
+    "star": "主演: 蒂姆·罗斯 Tim Roth / ...",
+    "releasetime": "1998",
+    "score": "9.2"
+}{
+    "index": "14",
+    "title": "放牛班的春天",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824951.jpg",
+    "link": "https://movie.douban.com/subject/1291549/",
+    "director": "导演: 克里斯托夫·巴拉蒂 Christophe Barratier",
+    "star": "主演: 热拉尔·朱尼奥 Gé...",
+    "releasetime": "2004",
+    "score": "9.3"
+}{
+    "index": "15",
+    "title": "楚门的世界",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg",
+    "link": "https://movie.douban.com/subject/1292064/",
+    "director": "导演: 彼得·威尔 Peter Weir",
+    "star": "主演: 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
+    "releasetime": "1998",
+    "score": "9.2"
+}{
+    "index": "16",
+    "title": "大话西游之大圣娶亲",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg",
+    "link": "https://movie.douban.com/subject/1292213/",
+    "director": "导演: 刘镇伟 Jeffrey Lau",
+    "star": "主演: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
+    "releasetime": "1995",
+    "score": "9.2"
+}{
+    "index": "17",
+    "title": "星际穿越",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2206088801.jpg",
+    "link": "https://movie.douban.com/subject/1889243/",
+    "director": "导演: 克里斯托弗·诺兰 Christopher Nolan",
+    "star": "主演: 马修·麦康纳 Matthew Mc...",
+    "releasetime": "2014",
+    "score": "9.2"
+}{
+    "index": "18",
+    "title": "龙猫",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg",
+    "link": "https://movie.douban.com/subject/1291560/",
+    "director": "导演: 宫崎骏 Hayao Miyazaki",
+    "star": "主演: 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
+    "releasetime": "1988",
+    "score": "9.2"
+}{
+    "index": "19",
+    "title": "教父",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1853232210.jpg",
+    "link": "https://movie.douban.com/subject/1291841/",
+    "director": "导演: 弗朗西斯·福特·科波拉 Francis Ford Coppola",
+    "star": "主演: 马龙·白兰度 M...",
+    "releasetime": "1972",
+    "score": "9.2"
+}{
+    "index": "20",
+    "title": "熔炉",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg",
+    "link": "https://movie.douban.com/subject/5912992/",
+    "director": "导演: 黄东赫 Dong-hyuk Hwang",
+    "star": "主演: 孔侑 Yoo Gong / 郑有美 Yu-mi Jeong ...",
+    "releasetime": "2011",
+    "score": "9.3"
+}{
+    "index": "21",
+    "title": "无间道",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2233971046.jpg",
+    "link": "https://movie.douban.com/subject/1307914/",
+    "director": "导演: 刘伟强 / 麦兆辉",
+    "star": "主演: 刘德华 / 梁朝伟 / 黄秋生",
+    "releasetime": "2002",
+    "score": "9.1"
+}{
+    "index": "22",
+    "title": "疯狂动物城",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315672647.jpg",
+    "link": "https://movie.douban.com/subject/25662329/",
+    "director": "导演: 拜伦·霍华德 Byron Howard / 瑞奇·摩尔 Rich Moore",
+    "star": "主演: 金妮弗·...",
+    "releasetime": "2016",
+    "score": "9.2"
+}{
+    "index": "23",
+    "title": "当幸福来敲门",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220721286.jpg",
+    "link": "https://movie.douban.com/subject/1849031/",
+    "director": "导演: 加布里尔·穆奇诺 Gabriele Muccino",
+    "star": "主演: 威尔·史密斯 Will Smith ...",
+    "releasetime": "2006",
+    "score": "9.0"
+}{
+    "index": "24",
+    "title": "怦然心动",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg",
+    "link": "https://movie.douban.com/subject/3319755/",
+    "director": "导演: 罗伯·莱纳 Rob Reiner",
+    "star": "主演: 玛德琳·卡罗尔 Madeline Carroll / 卡...",
+    "releasetime": "2010",
+    "score": "9.0"
+}{
+    "index": "25",
+    "title": "触不可及",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg",
+    "link": "https://movie.douban.com/subject/6786002/",
+    "director": "导演: 奥利维·那卡什 Olivier Nakache / 艾力克·托兰达 Eric Toledano",
+    "star": "主...",
+    "releasetime": "2011",
+    "score": "9.2"
+}{
+    "index": "26",
+    "title": "乱世佳人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg",
+    "link": "https://movie.douban.com/subject/1300267/",
+    "director": "导演: 维克多·弗莱明 Victor Fleming / 乔治·库克 George Cukor",
+    "star": "主演: 费...",
+    "releasetime": "1939",
+    "score": "9.2"
+}{
+    "index": "27",
+    "title": "蝙蝠侠：黑暗骑士",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg",
+    "link": "https://movie.douban.com/subject/1851857/",
+    "director": "导演: 克里斯托弗·诺兰 Christopher Nolan",
+    "star": "主演: 克里斯蒂安·贝尔 Christ...",
+    "releasetime": "2008",
+    "score": "9.1"
+}{
+    "index": "28",
+    "title": "活着",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513253791.jpg",
+    "link": "https://movie.douban.com/subject/1292365/",
+    "director": "导演: 张艺谋 Yimou Zhang",
+    "star": "主演: 葛优 You Ge / 巩俐 Li Gong / 姜武 Wu Jiang",
+    "releasetime": "1994",
+    "score": "9.2"
+}{
+    "index": "29",
+    "title": "少年派的奇幻漂流",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg",
+    "link": "https://movie.douban.com/subject/1929463/",
+    "director": "导演: 李安 Ang Lee",
+    "star": "主演: 苏拉·沙玛 Suraj Sharma / 伊尔凡·可汗 Irrfan...",
+    "releasetime": "2012",
+    "score": "9.0"
+}{
+    "index": "30",
+    "title": "天堂电影院",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910901025.jpg",
+    "link": "https://movie.douban.com/subject/1291828/",
+    "director": "导演: 朱塞佩·托纳多雷 Giuseppe Tornatore",
+    "star": "主演: 安东内拉·阿蒂利 Anton...",
+    "releasetime": "1988",
+    "score": "9.2"
+}{
+    "index": "31",
+    "title": "控方证人",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg",
+    "link": "https://movie.douban.com/subject/1296141/",
+    "director": "导演: 比利·怀尔德 Billy Wilder",
+    "star": "主演: 泰隆·鲍华 Tyrone Power / 玛琳·...",
+    "releasetime": "1957",
+    "score": "9.6"
+}{
+    "index": "32",
+    "title": "鬼子来了",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1181775734.jpg",
+    "link": "https://movie.douban.com/subject/1291858/",
+    "director": "导演: 姜文 Wen Jiang",
+    "star": "主演: 姜文 Wen Jiang / 香川照之 Teruyuki Kagawa /...",
+    "releasetime": "2000",
+    "score": "9.2"
+}{
+    "index": "33",
+    "title": "十二怒汉",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg",
+    "link": "https://movie.douban.com/subject/1293182/",
+    "director": "导演: Sidney Lumet",
+    "star": "主演: 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
+    "releasetime": "1957",
+    "score": "9.4"
+}{
+    "index": "34",
+    "title": "指环王3：王者无敌",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910825503.jpg",
+    "link": "https://movie.douban.com/subject/1291552/",
+    "director": "导演: 彼得·杰克逊 Peter Jackson",
+    "star": "主演: 维果·莫腾森 Viggo Mortensen / ...",
+    "releasetime": "2003",
+    "score": "9.1"
+}{
+    "index": "35",
+    "title": "天空之城",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg",
+    "link": "https://movie.douban.com/subject/1291583/",
+    "director": "导演: 宫崎骏 Hayao Miyazaki",
+    "star": "主演: 田中真弓 Mayumi Tanaka / 横泽启子 Ke...",
+    "releasetime": "1986",
+    "score": "9.1"
+}{
+    "index": "36",
+    "title": "摔跤吧！爸爸",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.jpg",
+    "link": "https://movie.douban.com/subject/26387939/",
+    "director": "导演: 涅提·蒂瓦里 Nitesh Tiwari",
+    "star": "主演: 阿米尔·汗 Aamir Khan / 法缇玛...",
+    "releasetime": "2016",
+    "score": "9.1"
+}{
+    "index": "37",
+    "title": "飞屋环游记",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2364094053.jpg",
+    "link": "https://movie.douban.com/subject/2129039/",
+    "director": "导演: 彼特·道格特 Pete Docter / 鲍勃·彼德森 Bob Peterson",
+    "star": "主演: 爱德...",
+    "releasetime": "2009",
+    "score": "8.9"
+}{
+    "index": "38",
+    "title": "大话西游之月光宝盒",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1280323646.jpg",
+    "link": "https://movie.douban.com/subject/1299398/",
+    "director": "导演: 刘镇伟 Jeffrey Lau",
+    "star": "主演: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
+    "releasetime": "1995",
+    "score": "8.9"
+}{
+    "index": "39",
+    "title": "搏击俱乐部",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910926158.jpg",
+    "link": "https://movie.douban.com/subject/1292000/",
+    "director": "导演: 大卫·芬奇 David Fincher",
+    "star": "主演: 爱德华·诺顿 Edward Norton / 布拉...",
+    "releasetime": "1999",
+    "score": "9.0"
+}{
+    "index": "40",
+    "title": "罗马假日",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg",
+    "link": "https://movie.douban.com/subject/1293839/",
+    "director": "导演: 威廉·惠勒 William Wyler",
+    "star": "主演: 奥黛丽·赫本 Audrey Hepburn / 格...",
+    "releasetime": "1953",
+    "score": "9.0"
+}{
+    "index": "41",
+    "title": "哈尔的移动城堡",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg",
+    "link": "https://movie.douban.com/subject/1308807/",
+    "director": "导演: 宫崎骏 Hayao Miyazaki",
+    "star": "主演: 倍赏千惠子 Chieko Baishô / 木村拓...",
+    "releasetime": "2004",
+    "score": "9.0"
+}{
+    "index": "42",
+    "title": "闻香识女人",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550757929.jpg",
+    "link": "https://movie.douban.com/subject/1298624/",
+    "director": "导演: 马丁·布莱斯 Martin Brest",
+    "star": "主演: 阿尔·帕西诺 Al Pacino / 克里斯...",
+    "releasetime": "1992",
+    "score": "9.0"
+}{
+    "index": "43",
+    "title": "窃听风暴",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg",
+    "link": "https://movie.douban.com/subject/1900841/",
+    "director": "导演: 弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck&nbsp;&nbsp;&n...<br>\n                            2006&nbsp;/&nbsp;德国&nbsp;/&nbsp;剧情 悬疑\n                        </p>\n\n                        \n                        <div class=\"star\">\n                                <span class=\"rating45-t\"></span>\n                                <span class=\"rating_num\" property=\"v:average\">9.1</span>\n                                <span property=\"v:best\" content=\"10.0\"></span>\n                                <span>313372人评价</span>\n                        </div>\n\n                            <p class=\"quote\">\n                                <span class=\"inq\">别样人生。</span>\n                            </p>\n                    </div>\n                </div>\n            </div>\n        </li>\n        <li>\n            <div class=\"item\">\n                <div class=\"pic\">\n                    <em class=\"\">44</em>\n                    <a href=\"https://movie.douban.com/subject/21937445/\">\n                        <img width=\"100\" alt=\"辩护人\" src=\"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg\" class=\"\">\n                    </a>\n                </div>\n                <div class=\"info\">\n                    <div class=\"hd\">\n                        <a href=\"https://movie.douban.com/subject/21937445/\" class=\"\">\n                            <span class=\"title\">辩护人</span>\n                                    <span class=\"title\">&nbsp;/&nbsp;변호인</span>\n                                <span class=\"other\">&nbsp;/&nbsp;逆权大状(港)  /  正义辩护人(台)</span>\n                        </a>\n\n\n                            <span class=\"playable\">[可播放]</span>\n                    </div>\n                    <div class=\"bd\">\n                        <p class=\"\">\n                            导演: 杨宇硕 Woo-seok Yang",
+    "star": "主演: 宋康昊 Kang-ho Song / 吴达洙 Dal-su O...",
+    "releasetime": "2013",
+    "score": "9.2"
+}{
+    "index": "45",
+    "title": "两杆大烟枪",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg",
+    "link": "https://movie.douban.com/subject/1293350/",
+    "director": "导演: Guy Ritchie",
+    "star": "主演: Jason Flemyng / Dexter Fletcher / Nick Moran",
+    "releasetime": "1998",
+    "score": "9.1"
+}{
+    "index": "46",
+    "title": "飞越疯人院",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg",
+    "link": "https://movie.douban.com/subject/1292224/",
+    "director": "导演: 米洛斯·福尔曼 Miloš Forman",
+    "star": "主演: 杰克·尼科尔森 Jack Nichols...",
+    "releasetime": "1975",
+    "score": "9.1"
+}{
+    "index": "47",
+    "title": "死亡诗社",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824340.jpg",
+    "link": "https://movie.douban.com/subject/1291548/",
+    "director": "导演: 彼得·威尔 Peter Weir",
+    "star": "主演: 罗宾·威廉姆斯 Robin Williams / 罗伯...",
+    "releasetime": "1989",
+    "score": "9.0"
+}{
+    "index": "48",
+    "title": "末代皇帝",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg",
+    "link": "https://movie.douban.com/subject/1293172/",
+    "director": "导演: 贝纳尔多·贝托鲁奇 Bernardo Bertolucci",
+    "star": "主演: 尊龙 John Lone / 陈...",
+    "releasetime": "1987",
+    "score": "9.1"
+}{
+    "index": "49",
+    "title": "指环王2：双塔奇兵",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "link": "https://movie.douban.com/subject/1291572/",
+    "director": "导演: 彼得·杰克逊 Peter Jackson",
+    "star": "主演: 伊利亚·伍德 Elijah Wood / 西恩...",
+    "releasetime": "2002",
+    "score": "9.0"
+}{
+    "index": "50",
+    "title": "V字仇杀队",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1465235231.jpg",
+    "link": "https://movie.douban.com/subject/1309046/",
+    "director": "导演: 詹姆斯·麦克特格 James McTeigue",
+    "star": "主演: 娜塔莉·波特曼 Natalie Por...",
+    "releasetime": "2005",
+    "score": "8.8"
+}{
+    "index": "51",
+    "title": "教父2",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg",
+    "link": "https://movie.douban.com/subject/1299131/",
+    "director": "导演: 弗朗西斯·福特·科波拉 Francis Ford Coppola",
+    "star": "主演: 阿尔·帕西诺 A...",
+    "releasetime": "1974",
+    "score": "9.1"
+}{
+    "index": "52",
+    "title": "素媛",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg",
+    "link": "https://movie.douban.com/subject/21937452/",
+    "director": "导演: 李濬益 Jun-ik Lee",
+    "star": "主演: 薛景求 Kyung-gu Sol / 严志媛 Ji-won Uhm ...",
+    "releasetime": "2013",
+    "score": "9.2"
+}{
+    "index": "53",
+    "title": "指环王1：魔戒再现",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1354436051.jpg",
+    "link": "https://movie.douban.com/subject/1291571/",
+    "director": "导演: 彼得·杰克逊 Peter Jackson",
+    "star": "主演: 伊利亚·伍德 Elijah Wood / 西恩...",
+    "releasetime": "2001",
+    "score": "9.0"
+}{
+    "index": "54",
+    "title": "海豚湾",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455222172.jpg",
+    "link": "https://movie.douban.com/subject/3442220/",
+    "director": "导演: 路易·西霍尤斯 Louie Psihoyos",
+    "star": "主演: Richard O'Barry / 路易·西霍...",
+    "releasetime": "2009",
+    "score": "9.3"
+}{
+    "index": "55",
+    "title": "饮食男女",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg",
+    "link": "https://movie.douban.com/subject/1291818/",
+    "director": "导演: 李安 Ang Lee",
+    "star": "主演: 郎雄 Sihung Lung / 杨贵媚 Kuei-Mei Yang / 吴...",
+    "releasetime": "1994",
+    "score": "9.1"
+}{
+    "index": "56",
+    "title": "美丽心灵",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg",
+    "link": "https://movie.douban.com/subject/1306029/",
+    "director": "导演: 朗·霍华德 Ron Howard",
+    "star": "主演: 罗素·克劳 Russell Crowe / 艾德·哈...",
+    "releasetime": "2001",
+    "score": "8.9"
+}{
+    "index": "57",
+    "title": "狮子王",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg",
+    "link": "https://movie.douban.com/subject/1301753/",
+    "director": "导演: Roger Allers / 罗伯·明可夫 Rob Minkoff",
+    "star": "主演: 乔纳森·泰勒·托马...",
+    "releasetime": "1994",
+    "score": "9.0"
+}{
+    "index": "58",
+    "title": "寻梦环游记",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503997609.jpg",
+    "link": "https://movie.douban.com/subject/20495023/",
+    "director": "导演: 李·昂克里奇 Lee Unkrich / 阿德里安·莫利纳 Adrian Molina",
+    "star": "主演: ...",
+    "releasetime": "2017",
+    "score": "9.0"
+}{
+    "index": "59",
+    "title": "情书",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg",
+    "link": "https://movie.douban.com/subject/1292220/",
+    "director": "导演: 岩井俊二 Shunji Iwai",
+    "star": "主演: 中山美穗 Miho Nakayama / 丰川悦司 Ets...",
+    "releasetime": "1995",
+    "score": "8.9"
+}{
+    "index": "60",
+    "title": "钢琴家",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792484461.jpg",
+    "link": "https://movie.douban.com/subject/1296736/",
+    "director": "导演: 罗曼·波兰斯基 Roman Polanski",
+    "star": "主演: 艾德里安·布洛迪 Adrien Brod...",
+    "releasetime": "2002",
+    "score": "9.1"
+}{
+    "index": "61",
+    "title": "美国往事",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg",
+    "link": "https://movie.douban.com/subject/1292262/",
+    "director": "导演: 赛尔乔·莱翁内 Sergio Leone",
+    "star": "主演: 罗伯特·德尼罗 Robert De Niro ...",
+    "releasetime": "1984",
+    "score": "9.1"
+}{
+    "index": "62",
+    "title": "本杰明·巴顿奇事",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg",
+    "link": "https://movie.douban.com/subject/1485260/",
+    "director": "导演: 大卫·芬奇 David Fincher",
+    "star": "主演: 凯特·布兰切特 Cate Blanchett / ...",
+    "releasetime": "2008",
+    "score": "8.8"
+}{
+    "index": "63",
+    "title": "小鞋子",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg",
+    "link": "https://movie.douban.com/subject/1303021/",
+    "director": "导演: 马基德·马基迪 Majid Majidi",
+    "star": "主演: 法拉赫阿米尔·哈什米安 Amir Fa...",
+    "releasetime": "1997",
+    "score": "9.2"
+}{
+    "index": "64",
+    "title": "黑客帝国",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg",
+    "link": "https://movie.douban.com/subject/1291843/",
+    "director": "导演: 安迪·沃卓斯基 Andy Wachowski / 拉娜·沃卓斯基 Lana Wachowski",
+    "star": "主...",
+    "releasetime": "1999",
+    "score": "8.9"
+}{
+    "index": "65",
+    "title": "看不见的客人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg",
+    "link": "https://movie.douban.com/subject/26580232/",
+    "director": "导演: 奥里奥尔·保罗 Oriol Paulo",
+    "star": "主演: 马里奥·卡萨斯 Mario Casas / 阿...",
+    "releasetime": "2016",
+    "score": "8.8"
+}{
+    "index": "66",
+    "title": "西西里的美丽传说",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792400696.jpg",
+    "link": "https://movie.douban.com/subject/1292402/",
+    "director": "导演: 朱塞佩·托纳多雷 Giuseppe Tornatore",
+    "star": "主演: 莫妮卡·贝鲁奇 Monica ...",
+    "releasetime": "2000",
+    "score": "8.8"
+}{
+    "index": "67",
+    "title": "让子弹飞",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg",
+    "link": "https://movie.douban.com/subject/3742360/",
+    "director": "导演: 姜文 Wen Jiang",
+    "star": "主演: 姜文 Wen Jiang / 葛优 You Ge / 周润发 Yun-F...",
+    "releasetime": "2010",
+    "score": "8.7"
+}{
+    "index": "68",
+    "title": "拯救大兵瑞恩",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg",
+    "link": "https://movie.douban.com/subject/1292849/",
+    "director": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg",
+    "star": "主演: 汤姆·汉克斯 Tom Hanks...",
+    "releasetime": "1998",
+    "score": "8.9"
+}{
+    "index": "69",
+    "title": "大闹天宫",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg",
+    "link": "https://movie.douban.com/subject/1418019/",
+    "director": "导演: 万籁鸣 Laiming Wan / 唐澄 Cheng  Tang",
+    "star": "主演: 邱岳峰 Yuefeng Qiu /...",
+    "releasetime": "1961(中国大陆) / 1964(中国大陆) / 1978(中国大陆) / 2004(中国大陆)",
+    "score": "9.3"
+}{
+    "index": "70",
+    "title": "致命魔术",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg",
+    "link": "https://movie.douban.com/subject/1780330/",
+    "director": "导演: 克里斯托弗·诺兰 Christopher Nolan",
+    "star": "主演: 休·杰克曼 Hugh Jackman...",
+    "releasetime": "2006",
+    "score": "8.8"
+}{
+    "index": "71",
+    "title": "哈利·波特与魔法石",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p804947166.jpg",
+    "link": "https://movie.douban.com/subject/1295038/",
+    "director": "导演: Chris Columbus",
+    "star": "主演: Daniel Radcliffe / Emma Watson / Rupert Grint",
+    "releasetime": "2001",
+    "score": "8.9"
+}{
+    "index": "72",
+    "title": "七宗罪",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457631605.jpg",
+    "link": "https://movie.douban.com/subject/1292223/",
+    "director": "导演: 大卫·芬奇 David Fincher",
+    "star": "主演: 摩根·弗里曼 Morgan Freeman / 布...",
+    "releasetime": "1995",
+    "score": "8.8"
+}{
+    "index": "73",
+    "title": "被嫌弃的松子的一生",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453723669.jpg",
+    "link": "https://movie.douban.com/subject/1787291/",
+    "director": "导演: 中岛哲也 Tetsuya Nakashima",
+    "star": "主演: 中谷美纪 Miki Nakatani / 瑛太 E...",
+    "releasetime": "2006",
+    "score": "8.9"
+}{
+    "index": "74",
+    "title": "音乐之声",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg",
+    "link": "https://movie.douban.com/subject/1294408/",
+    "director": "导演: 罗伯特·怀斯 Robert Wise",
+    "star": "主演: 朱莉·安德鲁斯 Julie Andrews / 克...",
+    "releasetime": "1965",
+    "score": "9.0"
+}{
+    "index": "75",
+    "title": "低俗小说",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg",
+    "link": "https://movie.douban.com/subject/1291832/",
+    "director": "导演: 昆汀·塔伦蒂诺 Quentin Tarantino",
+    "star": "主演: 约翰·特拉沃尔塔 John Tra...",
+    "releasetime": "1994",
+    "score": "8.8"
+}{
+    "index": "76",
+    "title": "天使爱美丽",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p803896904.jpg",
+    "link": "https://movie.douban.com/subject/1292215/",
+    "director": "导演: 让-皮埃尔·热内 Jean-Pierre Jeunet",
+    "star": "主演: 奥黛丽·塔图 Audrey Tau...",
+    "releasetime": "2001",
+    "score": "8.7"
+}{
+    "index": "77",
+    "title": "沉默的羔羊",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg",
+    "link": "https://movie.douban.com/subject/1293544/",
+    "director": "导演: 乔纳森·戴米 Jonathan Demme",
+    "star": "主演: 朱迪·福斯特 Jodie Foster / 安...",
+    "releasetime": "1991",
+    "score": "8.8"
+}{
+    "index": "78",
+    "title": "勇敢的心",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1374546770.jpg",
+    "link": "https://movie.douban.com/subject/1294639/",
+    "director": "导演: 梅尔·吉布森 Mel Gibson",
+    "star": "主演: 梅尔·吉布森 Mel Gibson / 苏菲·玛...",
+    "releasetime": "1995",
+    "score": "8.9"
+}{
+    "index": "79",
+    "title": "剪刀手爱德华",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg",
+    "link": "https://movie.douban.com/subject/1292370/",
+    "director": "导演: 蒂姆·波顿 Tim Burton",
+    "star": "主演: 约翰尼·德普 Johnny Depp / 薇诺娜·...",
+    "releasetime": "1990",
+    "score": "8.7"
+}{
+    "index": "80",
+    "title": "蝴蝶效应",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg",
+    "link": "https://movie.douban.com/subject/1292343/",
+    "director": "导演: 埃里克·布雷斯 Eric Bress / J·麦基·格鲁伯 J. Mackye Gruber",
+    "star": "主...",
+    "releasetime": "2004",
+    "score": "8.7"
+}{
+    "index": "81",
+    "title": "猫鼠游戏",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg",
+    "link": "https://movie.douban.com/subject/1305487/",
+    "director": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg",
+    "star": "主演: 莱昂纳多·迪卡普里奥 L...",
+    "releasetime": "2002",
+    "score": "8.9"
+}{
+    "index": "82",
+    "title": "春光乍泄",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg",
+    "link": "https://movie.douban.com/subject/1292679/",
+    "director": "导演: 王家卫 Kar Wai Wong",
+    "star": "主演: 张国荣 Leslie Cheung / 梁朝伟 Tony Leu...",
+    "releasetime": "1997",
+    "score": "8.9"
+}{
+    "index": "83",
+    "title": "心灵捕手",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg",
+    "link": "https://movie.douban.com/subject/1292656/",
+    "director": "导演: 格斯·范·桑特 Gus Van Sant",
+    "star": "主演: 马特·达蒙 Matt Damon / 罗宾·...",
+    "releasetime": "1997",
+    "score": "8.8"
+}{
+    "index": "84",
+    "title": "布达佩斯大饭店",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178872593.jpg",
+    "link": "https://movie.douban.com/subject/11525673/",
+    "director": "导演: 韦斯·安德森 Wes Anderson",
+    "star": "主演: 拉尔夫·费因斯 Ralph Fiennes / ...",
+    "releasetime": "2014",
+    "score": "8.8"
+}{
+    "index": "85",
+    "title": "禁闭岛",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg",
+    "link": "https://movie.douban.com/subject/2334904/",
+    "director": "导演: Martin Scorsese",
+    "star": "主演: 莱昂纳多·迪卡普里奥 Leonardo DiCaprio / ...",
+    "releasetime": "2010",
+    "score": "8.7"
+}{
+    "index": "86",
+    "title": "入殓师",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p594972928.jpg",
+    "link": "https://movie.douban.com/subject/2149806/",
+    "director": "导演: 泷田洋二郎 Yôjirô Takita",
+    "star": "主演: 本木雅弘 Masahiro Motoki / ...",
+    "releasetime": "2008",
+    "score": "8.8"
+}{
+    "index": "87",
+    "title": "穿条纹睡衣的男孩",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg",
+    "link": "https://movie.douban.com/subject/3008247/",
+    "director": "导演: 马克·赫尔曼 Mark Herman",
+    "star": "主演: 阿萨·巴特菲尔德 Asa Butterfield ...",
+    "releasetime": "2008",
+    "score": "9.0"
+}{
+    "index": "88",
+    "title": "幽灵公主",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1613191025.jpg",
+    "link": "https://movie.douban.com/subject/1297359/",
+    "director": "导演: 宫崎骏 Hayao Miyazaki",
+    "star": "主演: 松田洋治 Yôji Matsuda / 石田百合...",
+    "releasetime": "1997",
+    "score": "8.8"
+}{
+    "index": "89",
+    "title": "阿凡达",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg",
+    "link": "https://movie.douban.com/subject/1652587/",
+    "director": "导演: 詹姆斯·卡梅隆 James Cameron",
+    "star": "主演: 萨姆·沃辛顿 Sam Worthington ...",
+    "releasetime": "2009",
+    "score": "8.7"
+}{
+    "index": "90",
+    "title": "阳光灿烂的日子",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p967457079.jpg",
+    "link": "https://movie.douban.com/subject/1291875/",
+    "director": "导演: 姜文 Wen Jiang",
+    "star": "主演: 夏雨 Yu Xia / 宁静 Jing Ning / 陶虹 Hong Tao",
+    "releasetime": "1994",
+    "score": "8.8"
+}{
+    "index": "91",
+    "title": "第六感",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg",
+    "link": "https://movie.douban.com/subject/1297630/",
+    "director": "导演: M·奈特·沙马兰 M. Night Shyamalan",
+    "star": "主演: 布鲁斯·威利斯 Bruce Wi...",
+    "releasetime": "1999",
+    "score": "8.8"
+}{
+    "index": "92",
+    "title": "玛丽和马克思",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1820615077.jpg",
+    "link": "https://movie.douban.com/subject/3072124/",
+    "director": "导演: 亚当·艾略特 Adam Elliot",
+    "star": "主演: 托妮·科莱特 Toni Collette / 菲利...",
+    "releasetime": "2009",
+    "score": "8.9"
+}{
+    "index": "93",
+    "title": "致命ID",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453720880.jpg",
+    "link": "https://movie.douban.com/subject/1297192/",
+    "director": "导演: James Mangold",
+    "star": "主演: John Cusack / Ray Liotta / Amanda Peet",
+    "releasetime": "2003",
+    "score": "8.7"
+}{
+    "index": "94",
+    "title": "狩猎",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg",
+    "link": "https://movie.douban.com/subject/6985810/",
+    "director": "导演: 托马斯·温特伯格 Thomas Vinterberg",
+    "star": "主演: 麦斯·米科尔森 Mads Mik...",
+    "releasetime": "2012",
+    "score": "9.1"
+}{
+    "index": "95",
+    "title": "重庆森林",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg",
+    "link": "https://movie.douban.com/subject/1291999/",
+    "director": "导演: 王家卫 Kar Wai Wong",
+    "star": "主演: 林青霞 Brigitte Lin / 金城武 Takeshi K...",
+    "releasetime": "1994",
+    "score": "8.7"
+}{
+    "index": "96",
+    "title": "加勒比海盗",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg",
+    "link": "https://movie.douban.com/subject/1298070/",
+    "director": "导演: 戈尔·维宾斯基 Gore Verbinski",
+    "star": "主演: 约翰尼·德普 Johnny Depp / ...",
+    "releasetime": "2003",
+    "score": "8.7"
+}{
+    "index": "97",
+    "title": "断背山",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513535588.jpg",
+    "link": "https://movie.douban.com/subject/1418834/",
+    "director": "导演: 李安 Ang Lee",
+    "star": "主演: 希斯·莱杰 Heath Ledger / 杰克·吉伦哈尔 Jake...",
+    "releasetime": "2005",
+    "score": "8.7"
+}{
+    "index": "98",
+    "title": "摩登时代",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173707976.jpg",
+    "link": "https://movie.douban.com/subject/1294371/",
+    "director": "导演: 查理·卓别林 Charles Chaplin",
+    "star": "主演: 查理·卓别林 Charles Chaplin ...",
+    "releasetime": "1936",
+    "score": "9.2"
+}{
+    "index": "99",
+    "title": "告白",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg",
+    "link": "https://movie.douban.com/subject/4268598/",
+    "director": "导演: 中岛哲也 Tetsuya Nakashima",
+    "star": "主演: 松隆子 Takako Matsu / 冈田将生 ...",
+    "releasetime": "2010",
+    "score": "8.7"
+}{
+    "index": "100",
+    "title": "大鱼",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg",
+    "link": "https://movie.douban.com/subject/1291545/",
+    "director": "导演: 蒂姆·波顿 Tim Burton",
+    "star": "主演: 伊万·麦克格雷格 Ewan McGregor / 阿...",
+    "releasetime": "2003",
+    "score": "8.8"
+}{
+    "index": "101",
+    "title": "喜剧之王",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1043597424.jpg",
+    "link": "https://movie.douban.com/subject/1302425/",
+    "director": "导演: 周星驰 Stephen Chow / 李力持 Lik-Chi Lee",
+    "star": "主演: 周星驰 Stephen Ch...",
+    "releasetime": "1999",
+    "score": "8.6"
+}{
+    "index": "102",
+    "title": "一一",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2119675128.jpg",
+    "link": "https://movie.douban.com/subject/1292434/",
+    "director": "导演: 杨德昌 Edward Yang",
+    "star": "主演: 吴念真 / 李凯莉 Kelly Lee / 金燕玲 Elai...",
+    "releasetime": "2000",
+    "score": "9.0"
+}{
+    "index": "103",
+    "title": "消失的爱人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg",
+    "link": "https://movie.douban.com/subject/21318488/",
+    "director": "导演: 大卫·芬奇 David Fincher",
+    "star": "主演: 本·阿弗莱克 Ben Affleck / 罗莎蒙...",
+    "releasetime": "2014",
+    "score": "8.7"
+}{
+    "index": "104",
+    "title": "射雕英雄传之东成西就",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1993903133.jpg",
+    "link": "https://movie.douban.com/subject/1316510/",
+    "director": "导演: 刘镇伟 Jeffrey Lau",
+    "star": "主演: 梁朝伟 Tony Leung Chiu Wai / 林青霞 Bri...",
+    "releasetime": "1993",
+    "score": "8.7"
+}{
+    "index": "105",
+    "title": "阳光姐妹淘",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg",
+    "link": "https://movie.douban.com/subject/4917726/",
+    "director": "导演: 姜炯哲 Hyeong-Cheol Kang",
+    "star": "主演: 沈恩京 Eun-kyung Shim / 闵孝琳 Hy...",
+    "releasetime": "2011",
+    "score": "8.8"
+}{
+    "index": "106",
+    "title": "甜蜜蜜",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1962839732.jpg",
+    "link": "https://movie.douban.com/subject/1305164/",
+    "director": "导演: 陈可辛 Peter Chan",
+    "star": "主演: 黎明 Leon Lai / 张曼玉 Maggie Cheung / ...",
+    "releasetime": "1996",
+    "score": "8.8"
+}{
+    "index": "107",
+    "title": "爱在黎明破晓前",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452582315.jpg",
+    "link": "https://movie.douban.com/subject/1296339/",
+    "director": "导演: 理查德·林克莱特 Richard Linklater",
+    "star": "主演: 伊桑·霍克 Ethan Hawke ...",
+    "releasetime": "1995",
+    "score": "8.8"
+}{
+    "index": "108",
+    "title": "小森林 夏秋篇",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221319641.jpg",
+    "link": "https://movie.douban.com/subject/25814705/",
+    "director": "导演: 森淳一 Junichi Mori",
+    "star": "主演: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir...",
+    "releasetime": "2014",
+    "score": "9.0"
+}{
+    "index": "109",
+    "title": "侧耳倾听",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2370996140.jpg",
+    "link": "https://movie.douban.com/subject/1297052/",
+    "director": "导演: 近藤喜文 Yoshifumi Kondo",
+    "star": "主演: 本名阳子 Youko Honna / 小林桂树 K...",
+    "releasetime": "1995",
+    "score": "8.8"
+}{
+    "index": "110",
+    "title": "红辣椒",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p672363704.jpg",
+    "link": "https://movie.douban.com/subject/1865703/",
+    "director": "导演: 今敏 Satoshi Kon",
+    "star": "主演: 林原惠美 Megumi Hayashibara / 江守彻 Toru...",
+    "releasetime": "2006",
+    "score": "8.9"
+}{
+    "index": "111",
+    "title": "驯龙高手",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2210954024.jpg",
+    "link": "https://movie.douban.com/subject/2353023/",
+    "director": "导演: 迪恩·德布洛斯 Dean DeBlois / 克里斯·桑德斯 Chris Sanders",
+    "star": "主演:...",
+    "releasetime": "2010",
+    "score": "8.7"
+}{
+    "index": "112",
+    "title": "倩女幽魂",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg",
+    "link": "https://movie.douban.com/subject/1297447/",
+    "director": "导演: 程小东 Siu-Tung Ching",
+    "star": "主演: 张国荣 Leslie Cheung / 王祖贤 Joey W...",
+    "releasetime": "1987",
+    "score": "8.7"
+}{
+    "index": "113",
+    "title": "恐怖直播",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg",
+    "link": "https://movie.douban.com/subject/21360417/",
+    "director": "导演: 金秉祐 Byeong-woo Kim",
+    "star": "主演: 河正宇 Jung-woo Ha / 李璟荣 Kyeong-y...",
+    "releasetime": "2013",
+    "score": "8.7"
+}{
+    "index": "114",
+    "title": "风之谷",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg",
+    "link": "https://movie.douban.com/subject/1291585/",
+    "director": "导演: 宫崎骏 Hayao Miyazaki",
+    "star": "主演: 岛本须美 Sumi Shimamoto / 松田洋治 Y...",
+    "releasetime": "1984",
+    "score": "8.8"
+}{
+    "index": "115",
+    "title": "请以你的名字呼唤我",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg",
+    "link": "https://movie.douban.com/subject/26799731/",
+    "director": "导演: 卢卡·瓜达尼诺 Luca Guadagnino",
+    "star": "主演: 艾米·汉莫 Armie Hammer / ...",
+    "releasetime": "2017",
+    "score": "8.8"
+}{
+    "index": "116",
+    "title": "上帝之城",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg",
+    "link": "https://movie.douban.com/subject/1292208/",
+    "director": "导演: Kátia Lund / Fernando Meirelles",
+    "star": "主演: Alexandre Rodrigues / Lea...",
+    "releasetime": "2002",
+    "score": "8.9"
+}{
+    "index": "117",
+    "title": "超脱",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg",
+    "link": "https://movie.douban.com/subject/5322596/",
+    "director": "导演: 托尼·凯耶 Tony Kaye",
+    "star": "主演: 艾德里安·布洛迪 Adrien Brody / 马西...",
+    "releasetime": "2011",
+    "score": "8.8"
+}{
+    "index": "118",
+    "title": "爱在日落黄昏时",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910924055.jpg",
+    "link": "https://movie.douban.com/subject/1291990/",
+    "director": "导演: 理查德·林克莱特 Richard Linklater",
+    "star": "主演: 伊桑·霍克 Ethan Hawke ...",
+    "releasetime": "2004",
+    "score": "8.8"
+}{
+    "index": "119",
+    "title": "菊次郎的夏天",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p751835224.jpg",
+    "link": "https://movie.douban.com/subject/1293359/",
+    "director": "导演: 北野武 Takeshi Kitano",
+    "star": "主演: 北野武 Takeshi Kitano / 关口雄介 Yus...",
+    "releasetime": "1999",
+    "score": "8.8"
+}{
+    "index": "120",
+    "title": "幸福终点站",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792263736.jpg",
+    "link": "https://movie.douban.com/subject/1292274/",
+    "director": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg",
+    "star": "主演: 汤姆·汉克斯 Tom Hanks...",
+    "releasetime": "2004",
+    "score": "8.7"
+}{
+    "index": "121",
+    "title": "哈利·波特与死亡圣器(下)",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg",
+    "link": "https://movie.douban.com/subject/3011235/",
+    "director": "导演: 大卫·叶茨 David Yates",
+    "star": "主演: 丹尼尔·雷德克里夫 Daniel Radcliffe...",
+    "releasetime": "2011",
+    "score": "8.7"
+}{
+    "index": "122",
+    "title": "小森林 冬春篇",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215147728.jpg",
+    "link": "https://movie.douban.com/subject/25814707/",
+    "director": "导演: 森淳一 Junichi Mori",
+    "star": "主演: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir...",
+    "releasetime": "2015",
+    "score": "9.0"
+}{
+    "index": "123",
+    "title": "杀人回忆",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480225538.jpg",
+    "link": "https://movie.douban.com/subject/1300299/",
+    "director": "导演: 奉俊昊 Joon-ho Bong",
+    "star": "主演: 宋康昊 Kang-ho Song / 金相庆 Sang-kyun...",
+    "releasetime": "2003",
+    "score": "8.7"
+}{
+    "index": "124",
+    "title": "神偷奶爸",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg",
+    "link": "https://movie.douban.com/subject/3287562/",
+    "director": "导演: 皮艾尔·柯芬 Pierre Coffin / 克里斯·雷纳德 Chris Renaud",
+    "star": "主演: ...",
+    "releasetime": "2010",
+    "score": "8.5"
+}{
+    "index": "125",
+    "title": "借东西的小人阿莉埃蒂",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p617533616.jpg",
+    "link": "https://movie.douban.com/subject/4202302/",
+    "director": "导演: 米林宏昌 Hiromasa Yonebayashi",
+    "star": "主演: 志田未来 Mirai Shida / 神木...",
+    "releasetime": "2010",
+    "score": "8.7"
+}{
+    "index": "126",
+    "title": "7号房的礼物",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg",
+    "link": "https://movie.douban.com/subject/10777687/",
+    "director": "导演: 李焕庆 Hwan-kyeong Lee",
+    "star": "主演: 柳承龙 Seung-yong Ryoo / 朴信惠 Shi...",
+    "releasetime": "2013",
+    "score": "8.8"
+}{
+    "index": "127",
+    "title": "萤火之森",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1272904657.jpg",
+    "link": "https://movie.douban.com/subject/5989818/",
+    "director": "导演: 大森贵弘 Takahiro Omori",
+    "star": "主演: 佐仓绫音 Ayane Sakura / 内山昂辉 K...",
+    "releasetime": "2011",
+    "score": "8.8"
+}{
+    "index": "128",
+    "title": "怪兽电力公司",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513247938.jpg",
+    "link": "https://movie.douban.com/subject/1291579/",
+    "director": "导演: 彼特·道格特 Pete Docter / 大卫·斯沃曼 David Silverman",
+    "star": "主演: 约...",
+    "releasetime": "2001",
+    "score": "8.6"
+}{
+    "index": "129",
+    "title": "唐伯虎点秋香",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1946455272.jpg",
+    "link": "https://movie.douban.com/subject/1306249/",
+    "director": "导演: 李力持 Lik-Chi Lee",
+    "star": "主演: 周星驰 Stephen Chow / 巩俐 Li Gong / 陈...",
+    "releasetime": "1993",
+    "score": "8.5"
+}{
+    "index": "130",
+    "title": "超能陆战队",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2224568669.jpg",
+    "link": "https://movie.douban.com/subject/11026735/",
+    "director": "导演: 唐·霍尔 Don Hall / 克里斯·威廉姆斯 Chris Williams",
+    "star": "主演: 斯科特...",
+    "releasetime": "2014",
+    "score": "8.6"
+}{
+    "index": "131",
+    "title": "岁月神偷",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg",
+    "link": "https://movie.douban.com/subject/3792799/",
+    "director": "导演: 罗启锐 Alex Law",
+    "star": "主演: 吴君如 Sandra Ng / 任达华 Simon Yam / 钟绍...",
+    "releasetime": "2010",
+    "score": "8.7"
+}{
+    "index": "132",
+    "title": "蝙蝠侠：黑暗骑士崛起",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg",
+    "link": "https://movie.douban.com/subject/3395373/",
+    "director": "导演: 克里斯托弗·诺兰 Christopher Nolan",
+    "star": "主演: 克里斯蒂安·贝尔 Christ...",
+    "releasetime": "2012",
+    "score": "8.7"
+}{
+    "index": "133",
+    "title": "七武士",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p647099823.jpg",
+    "link": "https://movie.douban.com/subject/1295399/",
+    "director": "导演: 黑泽明 Akira Kurosawa",
+    "star": "主演: 三船敏郎 Toshirô Mifune / 志村乔 ...",
+    "releasetime": "1954",
+    "score": "9.2"
+}{
+    "index": "134",
+    "title": "电锯惊魂",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2163771304.jpg",
+    "link": "https://movie.douban.com/subject/1417598/",
+    "director": "导演: 詹姆斯·温 James Wan",
+    "star": "主演: 雷·沃纳尔 Leigh Whannell / 加利·艾...",
+    "releasetime": "2004",
+    "score": "8.7"
+}{
+    "index": "135",
+    "title": "真爱至上",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg",
+    "link": "https://movie.douban.com/subject/1292401/",
+    "director": "导演: 理查德·柯蒂斯 Richard Curtis",
+    "star": "主演: 休·格兰特 Hugh Grant / 柯林...",
+    "releasetime": "2003",
+    "score": "8.6"
+}{
+    "index": "136",
+    "title": "谍影重重3",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg",
+    "link": "https://movie.douban.com/subject/1578507/",
+    "director": "导演: 保罗·格林格拉斯 Paul Greengrass",
+    "star": "主演: 马特·达蒙 Matt Damon / ...",
+    "releasetime": "2007",
+    "score": "8.7"
+}{
+    "index": "137",
+    "title": "疯狂原始人",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg",
+    "link": "https://movie.douban.com/subject/1907966/",
+    "director": "导演: 科克·德·米科 Kirk De Micco / 克里斯·桑德斯 Chris Sanders",
+    "star": "主演...",
+    "releasetime": "2013",
+    "score": "8.7"
+}{
+    "index": "138",
+    "title": "喜宴",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173713676.jpg",
+    "link": "https://movie.douban.com/subject/1303037/",
+    "director": "导演: 李安 Ang Lee",
+    "star": "主演: 赵文瑄 Winston Chao / 郎雄 Sihung Lung / 归亚...",
+    "releasetime": "1993",
+    "score": "8.9"
+}{
+    "index": "139",
+    "title": "萤火虫之墓",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237136718.jpg",
+    "link": "https://movie.douban.com/subject/1293318/",
+    "director": "导演: 高畑勋 Isao Takahata",
+    "star": "主演: 辰己努 / 白石绫乃 / 志乃原良子",
+    "releasetime": "1988",
+    "score": "8.7"
+}{
+    "index": "140",
+    "title": "东邪西毒",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg",
+    "link": "https://movie.douban.com/subject/1292328/",
+    "director": "导演: 王家卫 Kar Wai Wong",
+    "star": "主演: 张国荣 Leslie Cheung / 林青霞 Brigitte...",
+    "releasetime": "1994",
+    "score": "8.6"
+}{
+    "index": "141",
+    "title": "贫民窟的百万富翁",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg",
+    "link": "https://movie.douban.com/subject/2209573/",
+    "director": "导演: 丹尼·鲍尔 Danny Boyle / 洛芙琳·坦丹 Loveleen Tandan",
+    "star": "主演: 戴夫...",
+    "releasetime": "2008",
+    "score": "8.5"
+}{
+    "index": "142",
+    "title": "英雄本色",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg",
+    "link": "https://movie.douban.com/subject/1297574/",
+    "director": "导演: 吴宇森 John Woo",
+    "star": "主演: 周润发 Yun-Fat Chow / 狄龙 Lung Ti / 张国...",
+    "releasetime": "1986",
+    "score": "8.6"
+}{
+    "index": "143",
+    "title": "无人知晓",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg",
+    "link": "https://movie.douban.com/subject/1292337/",
+    "director": "导演: 是枝裕和 Hirokazu Koreeda",
+    "star": "主演: 柳乐优弥 Yûya Yagira / 北浦爱...",
+    "releasetime": "2004",
+    "score": "9.1"
+}{
+    "index": "144",
+    "title": "黑天鹅",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p719282906.jpg",
+    "link": "https://movie.douban.com/subject/1978709/",
+    "director": "导演: 达伦·阿罗诺夫斯基 Darren Aronofsky",
+    "star": "主演: 娜塔莉·波特曼 Natalie...",
+    "releasetime": "2010",
+    "score": "8.5"
+}{
+    "index": "145",
+    "title": "记忆碎片",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg",
+    "link": "https://movie.douban.com/subject/1304447/",
+    "director": "导演: 克里斯托弗·诺兰 Christopher Nolan",
+    "star": "主演: 盖·皮尔斯 Guy Pearce /...",
+    "releasetime": "2000",
+    "score": "8.6"
+}{
+    "index": "146",
+    "title": "血战钢锯岭",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg",
+    "link": "https://movie.douban.com/subject/26325320/",
+    "director": "导演: 梅尔·吉布森 Mel Gibson",
+    "star": "主演: 安德鲁·加菲尔德 Andrew Garfield /...",
+    "releasetime": "2016",
+    "score": "8.7"
+}{
+    "index": "147",
+    "title": "心迷宫",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2275298525.jpg",
+    "link": "https://movie.douban.com/subject/25917973/",
+    "director": "导演: 忻钰坤 Yukun Xin",
+    "star": "主演: 霍卫民 Weimin Huo / 王笑天 Xiaotian Wang ...",
+    "releasetime": "2014",
+    "score": "8.7"
+}{
+    "index": "148",
+    "title": "傲慢与偏见",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452005185.jpg",
+    "link": "https://movie.douban.com/subject/1418200/",
+    "director": "导演: 乔·怀特 Joe Wright",
+    "star": "主演: 凯拉·奈特莉 Keira Knightley / 马修·...",
+    "releasetime": "2005",
+    "score": "8.5"
+}{
+    "index": "149",
+    "title": "时空恋旅人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg",
+    "link": "https://movie.douban.com/subject/10577869/",
+    "director": "导演: 理查德·柯蒂斯 Richard Curtis",
+    "star": "主演: 多姆纳尔·格里森 Domhnall Gl...",
+    "releasetime": "2013",
+    "score": "8.7"
+}{
+    "index": "150",
+    "title": "雨人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p942376281.jpg",
+    "link": "https://movie.douban.com/subject/1291870/",
+    "director": "导演: 巴瑞·莱文森 Barry Levinson",
+    "star": "主演: 达斯汀·霍夫曼 Dustin Hoffman ...",
+    "releasetime": "1988",
+    "score": "8.7"
+}{
+    "index": "151",
+    "title": "荒蛮故事",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192834364.jpg",
+    "link": "https://movie.douban.com/subject/24750126/",
+    "director": "导演: 达米安·斯兹弗隆 Damián Szifron",
+    "star": "主演: 达里奥·葛兰帝内提 Darío...",
+    "releasetime": "2014",
+    "score": "8.8"
+}{
+    "index": "152",
+    "title": "纵横四海",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2272146906.jpg",
+    "link": "https://movie.douban.com/subject/1295409/",
+    "director": "导演: 吴宇森 John Woo",
+    "star": "主演: 周润发 Yun-Fat Chow / 张国荣 Leslie Cheung...",
+    "releasetime": "1991",
+    "score": "8.7"
+}{
+    "index": "153",
+    "title": "教父3",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg",
+    "link": "https://movie.douban.com/subject/1294240/",
+    "director": "导演: 弗朗西斯·福特·科波拉 Francis Ford Coppola",
+    "star": "主演: 阿尔·帕西诺 A...",
+    "releasetime": "1990",
+    "score": "8.8"
+}{
+    "index": "154",
+    "title": "达拉斯买家俱乐部",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg",
+    "link": "https://movie.douban.com/subject/1793929/",
+    "director": "导演: 让-马克·瓦雷 Jean-Marc Vallée",
+    "star": "主演: 马修·麦康纳 Matthew McCon...",
+    "releasetime": "2013",
+    "score": "8.7"
+}{
+    "index": "155",
+    "title": "卢旺达饭店",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2159368352.jpg",
+    "link": "https://movie.douban.com/subject/1291822/",
+    "director": "导演: 特瑞·乔治 Terry George",
+    "star": "主演: 唐·钱德尔 Don Cheadle / 苏菲·奥...",
+    "releasetime": "2004",
+    "score": "8.9"
+}{
+    "index": "156",
+    "title": "玩具总动员3",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg",
+    "link": "https://movie.douban.com/subject/1858711/",
+    "director": "导演: 李·昂克里奇 Lee Unkrich",
+    "star": "主演: 汤姆·汉克斯 Tom Hanks / 蒂姆·艾...",
+    "releasetime": "2010",
+    "score": "8.8"
+}{
+    "index": "157",
+    "title": "花样年华",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg",
+    "link": "https://movie.douban.com/subject/1291557/",
+    "director": "导演: 王家卫 Kar Wai Wong",
+    "star": "主演: 梁朝伟 Tony Leung Chiu Wai / 张曼玉 Ma...",
+    "releasetime": "2000",
+    "score": "8.6"
+}{
+    "index": "158",
+    "title": "完美的世界",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg",
+    "link": "https://movie.douban.com/subject/1300992/",
+    "director": "导演: 克林特·伊斯特伍德 Clint Eastwood",
+    "star": "主演: 凯文·科斯特纳 Kevin Cos...",
+    "releasetime": "1993",
+    "score": "9.1"
+}{
+    "index": "159",
+    "title": "海边的曼彻斯特",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496940327.jpg",
+    "link": "https://movie.douban.com/subject/25980443/",
+    "director": "导演: 肯尼斯·罗纳根 Kenneth Lonergan",
+    "star": "主演: 卡西·阿弗莱克 Casey Affle...",
+    "releasetime": "2016",
+    "score": "8.6"
+}{
+    "index": "160",
+    "title": "海洋",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p497010372.jpg",
+    "link": "https://movie.douban.com/subject/3443389/",
+    "director": "导演: 雅克·贝汉 Jacques Perrin / 雅克·克鲁奥德 Jacques Cluzaud",
+    "star": "主演:...",
+    "releasetime": "2009",
+    "score": "9.0"
+}{
+    "index": "161",
+    "title": "虎口脱险",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg",
+    "link": "https://movie.douban.com/subject/1296909/",
+    "director": "导演: 杰拉尔·乌里 Gérard Oury",
+    "star": "主演: 路易·德·菲耐斯 Louis de Funès...",
+    "releasetime": "1966",
+    "score": "8.9"
+}{
+    "index": "162",
+    "title": "恋恋笔记本",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg",
+    "link": "https://movie.douban.com/subject/1309163/",
+    "director": "导演: 尼克·卡索维茨 Nick Cassavetes",
+    "star": "主演: 瑞恩·高斯林 Ryan Gosling /...",
+    "releasetime": "2004",
+    "score": "8.5"
+}{
+    "index": "163",
+    "title": "你看起来好像很好吃",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg",
+    "link": "https://movie.douban.com/subject/4848115/",
+    "director": "导演: 藤森雅也 Masaya Fujimori",
+    "star": "主演: 山口胜平 Kappei Yamaguchi / 爱河...",
+    "releasetime": "2010",
+    "score": "8.8"
+}{
+    "index": "164",
+    "title": "二十二",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457609817.jpg",
+    "link": "https://movie.douban.com/subject/26430107/",
+    "director": "导演: 郭柯 Ke Guo",
+    "star": "主演: ",
+    "releasetime": "2015",
+    "score": "8.7"
+}{
+    "index": "165",
+    "title": "被解救的姜戈",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1959232369.jpg",
+    "link": "https://movie.douban.com/subject/6307447/",
+    "director": "导演: 昆汀·塔伦蒂诺 Quentin Tarantino",
+    "star": "主演: 杰米·福克斯 Jamie Foxx /...",
+    "releasetime": "2012",
+    "score": "8.6"
+}{
+    "index": "166",
+    "title": "头脑特工队",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2266293606.jpg",
+    "link": "https://movie.douban.com/subject/10533913/",
+    "director": "导演: 彼特·道格特 Pete Docter / 罗纳尔多·德尔·卡门 Ronaldo Del Carmen&nbsp;&nbsp;&nb...<br>\n                            2015&nbsp;/&nbsp;美国&nbsp;/&nbsp;喜剧 动画 冒险\n                        </p>\n\n                        \n                        <div class=\"star\">\n                                <span class=\"rating45-t\"></span>\n                                <span class=\"rating_num\" property=\"v:average\">8.7</span>\n                                <span property=\"v:best\" content=\"10.0\"></span>\n                                <span>310547人评价</span>\n                        </div>\n\n                            <p class=\"quote\">\n                                <span class=\"inq\">愿我们都不用长大，每一座城堡都能永远存在。</span>\n                            </p>\n                    </div>\n                </div>\n            </div>\n        </li>\n        <li>\n            <div class=\"item\">\n                <div class=\"pic\">\n                    <em class=\"\">167</em>\n                    <a href=\"https://movie.douban.com/subject/1295865/\">\n                        <img width=\"100\" alt=\"燃情岁月\" src=\"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1023654037.jpg\" class=\"\">\n                    </a>\n                </div>\n                <div class=\"info\">\n                    <div class=\"hd\">\n                        <a href=\"https://movie.douban.com/subject/1295865/\" class=\"\">\n                            <span class=\"title\">燃情岁月</span>\n                                    <span class=\"title\">&nbsp;/&nbsp;Legends of the Fall</span>\n                                <span class=\"other\">&nbsp;/&nbsp;秋日传奇  /  真爱一世情(台)</span>\n                        </a>\n\n\n                            <span class=\"playable\">[可播放]</span>\n                    </div>\n                    <div class=\"bd\">\n                        <p class=\"\">\n                            导演: 爱德华·兹威克 Edward Zwick",
+    "star": "主演: 布拉德·皮特 Brad Pitt / 安东...",
+    "releasetime": "1994",
+    "score": "8.7"
+}{
+    "index": "168",
+    "title": "冰川时代",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg",
+    "link": "https://movie.douban.com/subject/1291578/",
+    "director": "导演: 卡洛斯·沙尔丹哈 Carlos Saldanha / 克里斯·韦奇 Chris Wedge",
+    "star": "主演...",
+    "releasetime": "2002",
+    "score": "8.5"
+}{
+    "index": "169",
+    "title": "无敌破坏王",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg",
+    "link": "https://movie.douban.com/subject/6534248/",
+    "director": "导演: 瑞奇·莫尔 Rich Moore",
+    "star": "主演: 约翰·C·赖利 John C. Reilly / 萨拉...",
+    "releasetime": "2012",
+    "score": "8.7"
+}{
+    "index": "170",
+    "title": "你的名字。",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395733377.jpg",
+    "link": "https://movie.douban.com/subject/26683290/",
+    "director": "导演: 新海诚 Makoto Shinkai",
+    "star": "主演: 神木隆之介 Ryûnosuke Kamiki / 上...",
+    "releasetime": "2016",
+    "score": "8.4"
+}{
+    "index": "171",
+    "title": "我是山姆",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg",
+    "link": "https://movie.douban.com/subject/1306861/",
+    "director": "导演: 杰茜·尼尔森 Jessie Nelson",
+    "star": "主演: Sean Penn / Dakota Fanning / Mi...",
+    "releasetime": "2001",
+    "score": "8.9"
+}{
+    "index": "172",
+    "title": "雨中曲",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg",
+    "link": "https://movie.douban.com/subject/1293460/",
+    "director": "导演: 斯坦利·多南 Stanley Donen / 吉恩·凯利 Gene Kelly",
+    "star": "主演: 吉恩·...",
+    "releasetime": "1952",
+    "score": "9.0"
+}{
+    "index": "173",
+    "title": "人工智能",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg",
+    "link": "https://movie.douban.com/subject/1302827/",
+    "director": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg",
+    "star": "主演: 海利·乔·奥斯蒙 Haley...",
+    "releasetime": "2001",
+    "score": "8.6"
+}{
+    "index": "174",
+    "title": "爆裂鼓手",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg",
+    "link": "https://movie.douban.com/subject/25773932/",
+    "director": "导演: 达米恩·查泽雷 Damien Chazelle",
+    "star": "主演: 迈尔斯·特勒 Miles Teller /...",
+    "releasetime": "2014",
+    "score": "8.6"
+}{
+    "index": "175",
+    "title": "穿越时空的少女",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg",
+    "link": "https://movie.douban.com/subject/1937946/",
+    "director": "导演: 细田守 Mamoru Hosoda",
+    "star": "主演: 仲里依纱 Riisa Naka / 石田卓也 Takuya...",
+    "releasetime": "2006",
+    "score": "8.6"
+}{
+    "index": "176",
+    "title": "魂断蓝桥",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg",
+    "link": "https://movie.douban.com/subject/1293964/",
+    "director": "导演: 茂文·勒鲁瓦 Mervyn LeRoy",
+    "star": "主演: 费雯·丽 Vivien Leigh / 罗伯特·...",
+    "releasetime": "1940",
+    "score": "8.8"
+}{
+    "index": "177",
+    "title": "未麻的部屋",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg",
+    "link": "https://movie.douban.com/subject/1395091/",
+    "director": "导演: 今敏 Satoshi Kon",
+    "star": "主演: 岩男润子 Junko Iwao / 松本梨香 Rica Matsu...",
+    "releasetime": "1997",
+    "score": "8.9"
+}{
+    "index": "178",
+    "title": "三块广告牌",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510081688.jpg",
+    "link": "https://movie.douban.com/subject/26611804/",
+    "director": "导演: 马丁·麦克唐纳 Martin McDonagh",
+    "star": "主演: 弗兰西斯·麦克多蒙德 France...",
+    "releasetime": "2017",
+    "score": "8.7"
+}{
+    "index": "179",
+    "title": "猜火车",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513567548.jpg",
+    "link": "https://movie.douban.com/subject/1292528/",
+    "director": "导演: 丹尼·博伊尔 Danny Boyle",
+    "star": "主演: 伊万·麦克格雷格 Ewan McGregor / ...",
+    "releasetime": "1996",
+    "score": "8.5"
+}{
+    "index": "180",
+    "title": "模仿游戏",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2255040492.jpg",
+    "link": "https://movie.douban.com/subject/10463953/",
+    "director": "导演: 莫滕·泰杜姆 Morten Tyldum",
+    "star": "主演: 本尼迪克特·康伯巴奇 Benedict C...",
+    "releasetime": "2014",
+    "score": "8.6"
+}{
+    "index": "181",
+    "title": "一个叫欧维的男人决定去死",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg",
+    "link": "https://movie.douban.com/subject/26628357/",
+    "director": "导演: 汉内斯·赫尔姆 Hannes Holm",
+    "star": "主演: 罗夫·拉斯加德 Rolf Lassgård...",
+    "releasetime": "2015",
+    "score": "8.8"
+}{
+    "index": "182",
+    "title": "房间",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg",
+    "link": "https://movie.douban.com/subject/25724855/",
+    "director": "导演: 伦尼·阿伯拉罕森 Lenny Abrahamson",
+    "star": "主演: 布丽·拉尔森 Brie Larson...",
+    "releasetime": "2015",
+    "score": "8.8"
+}{
+    "index": "183",
+    "title": "完美陌生人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522331945.jpg",
+    "link": "https://movie.douban.com/subject/26614893/",
+    "director": "导演: 保罗·格诺维瑟 Paolo Genovese",
+    "star": "主演: 马可·贾利尼 Marco Giallini ...",
+    "releasetime": "2016",
+    "score": "8.6"
+}{
+    "index": "184",
+    "title": "忠犬八公物语",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1576418852.jpg",
+    "link": "https://movie.douban.com/subject/1959195/",
+    "director": "导演: Seijirô Kôyama",
+    "star": "主演: 山本圭 Kei Yamamoto / 井川比佐志 Hisa...",
+    "releasetime": "1987",
+    "score": "9.1"
+}{
+    "index": "185",
+    "title": "罗生门",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1864872647.jpg",
+    "link": "https://movie.douban.com/subject/1291879/",
+    "director": "导演: 黑泽明 Akira Kurosawa",
+    "star": "主演: 三船敏郎 Toshirô Mifune / 千秋实 ...",
+    "releasetime": "1950",
+    "score": "8.7"
+}{
+    "index": "186",
+    "title": "恐怖游轮",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg",
+    "link": "https://movie.douban.com/subject/3011051/",
+    "director": "导演: 克里斯托弗·史密斯 Christopher Smith",
+    "star": "主演: 梅利莎·乔治 Melissa ...",
+    "releasetime": "2009",
+    "score": "8.4"
+}{
+    "index": "187",
+    "title": "魔女宅急便",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg",
+    "link": "https://movie.douban.com/subject/1307811/",
+    "director": "导演: 宫崎骏 Hayao Miyazaki",
+    "star": "主演: 高山南 Minami Takayama / 佐久间玲 Re...",
+    "releasetime": "1989",
+    "score": "8.5"
+}{
+    "index": "188",
+    "title": "阿飞正传",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg",
+    "link": "https://movie.douban.com/subject/1305690/",
+    "director": "导演: 王家卫 Kar Wai Wong",
+    "star": "主演: 张国荣 Leslie Cheung / 张曼玉 Maggie C...",
+    "releasetime": "1990",
+    "score": "8.5"
+}{
+    "index": "189",
+    "title": "香水",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p470006658.jpg",
+    "link": "https://movie.douban.com/subject/1760622/",
+    "director": "导演: 汤姆·提克威 Tom Tykwer",
+    "star": "主演: 本·卫肖 Ben Whishaw / 艾伦·瑞克...",
+    "releasetime": "2006",
+    "score": "8.5"
+}{
+    "index": "190",
+    "title": "浪潮",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg",
+    "link": "https://movie.douban.com/subject/2297265/",
+    "director": "导演: 丹尼斯·甘塞尔 Dennis Gansel",
+    "star": "主演: 尤尔根·沃格尔 Jürgen Vogel ...",
+    "releasetime": "2008",
+    "score": "8.7"
+}{
+    "index": "191",
+    "title": "朗读者",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg",
+    "link": "https://movie.douban.com/subject/2213597/",
+    "director": "导演: 史蒂芬·戴德利 Stephen Daldry",
+    "star": "主演: 凯特·温丝莱特 Kate Winslet ...",
+    "releasetime": "2008",
+    "score": "8.5"
+}{
+    "index": "192",
+    "title": "哪吒闹海",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516566783.jpg",
+    "link": "https://movie.douban.com/subject/1307315/",
+    "director": "导演: 严定宪 Dingxian Yan / 王树忱 Shuchen Wang",
+    "star": "主演: 梁正晖 Zhenghui ...",
+    "releasetime": "1979",
+    "score": "8.9"
+}{
+    "index": "193",
+    "title": "可可西里",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg",
+    "link": "https://movie.douban.com/subject/1308857/",
+    "director": "导演: 陆川 Chuan Lu",
+    "star": "主演: 多布杰 Duobujie / 张磊 Lei Zhang / 亓亮 Qi L...",
+    "releasetime": "2004",
+    "score": "8.7"
+}{
+    "index": "194",
+    "title": "黑客帝国3：矩阵革命",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg",
+    "link": "https://movie.douban.com/subject/1302467/",
+    "director": "导演: Andy Wachowski / Larry Wachowski",
+    "star": "主演: 基努·里维斯 Keanu Reeves...",
+    "releasetime": "2003",
+    "score": "8.6"
+}{
+    "index": "195",
+    "title": "海街日记",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2232247487.jpg",
+    "link": "https://movie.douban.com/subject/25895901/",
+    "director": "导演: 是枝裕和 Hirokazu Koreeda",
+    "star": "主演: 绫濑遥 Haruka Ayase / 长泽雅美 M...",
+    "releasetime": "2015",
+    "score": "8.7"
+}{
+    "index": "196",
+    "title": "战争之王",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453719066.jpg",
+    "link": "https://movie.douban.com/subject/1419936/",
+    "director": "导演: 安德鲁·尼科尔 Andrew Niccol",
+    "star": "主演: 尼古拉斯·凯奇 Nicolas Cage /...",
+    "releasetime": "2005",
+    "score": "8.6"
+}{
+    "index": "197",
+    "title": "谍影重重",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1597183981.jpg",
+    "link": "https://movie.douban.com/subject/1304102/",
+    "director": "导演: 道格·里曼 Doug Liman",
+    "star": "主演: 马特·达蒙 Matt Damon / 弗兰卡·波坦...",
+    "releasetime": "2002",
+    "score": "8.5"
+}{
+    "index": "198",
+    "title": "谍影重重2",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg",
+    "link": "https://movie.douban.com/subject/1308767/",
+    "director": "导演: 保罗·格林格拉斯 Paul Greengrass",
+    "star": "主演: 马特·达蒙 Matt Damon / ...",
+    "releasetime": "2004",
+    "score": "8.6"
+}{
+    "index": "199",
+    "title": "牯岭街少年杀人事件",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg",
+    "link": "https://movie.douban.com/subject/1292329/",
+    "director": "导演: 杨德昌 Edward Yang",
+    "star": "主演: 张震 Chen Chang / 杨静怡 Lisa Yang / 张...",
+    "releasetime": "1991",
+    "score": "8.8"
+}{
+    "index": "200",
+    "title": "地球上的星星",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1973489335.jpg",
+    "link": "https://movie.douban.com/subject/2363506/",
+    "director": "导演: 阿米尔·汗 Aamir Khan",
+    "star": "主演: 达席尔·萨法瑞 Darsheel Safary / 阿...",
+    "releasetime": "2007",
+    "score": "8.9"
+}{
+    "index": "201",
+    "title": "一次别离",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189835254.jpg",
+    "link": "https://movie.douban.com/subject/5964718/",
+    "director": "导演: 阿斯哈·法哈蒂  Asghar Farhadi",
+    "star": "主演: 佩曼·莫阿迪 Peyman Moadi /...",
+    "releasetime": "2011",
+    "score": "8.7"
+}{
+    "index": "202",
+    "title": "青蛇",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584021784.jpg",
+    "link": "https://movie.douban.com/subject/1303394/",
+    "director": "导演: 徐克 Hark Tsui",
+    "star": "主演: 张曼玉 Maggie Cheung / 王祖贤 Joey Wang / ...",
+    "releasetime": "1993",
+    "score": "8.5"
+}{
+    "index": "203",
+    "title": "追随",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1150103377.jpg",
+    "link": "https://movie.douban.com/subject/1397546/",
+    "director": "导演: 克里斯托弗·诺兰 Christopher Nolan",
+    "star": "主演: 杰里米·西奥伯德 Jeremy...",
+    "releasetime": "1998",
+    "score": "8.9"
+}{
+    "index": "204",
+    "title": "惊魂记",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg",
+    "link": "https://movie.douban.com/subject/1293181/",
+    "director": "导演: Alfred Hitchcock",
+    "star": "主演: Janet Leigh / Anthony Perkins / Vera Miles",
+    "releasetime": "1960",
+    "score": "8.9"
+}{
+    "index": "205",
+    "title": "疯狂的石头",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg",
+    "link": "https://movie.douban.com/subject/1862151/",
+    "director": "导演: 宁浩 Hao Ning",
+    "star": "主演: 郭涛 Tao Guo / 刘桦 Hua Liu / 连晋 Teddy Lin",
+    "releasetime": "2006",
+    "score": "8.4"
+}{
+    "index": "206",
+    "title": "终结者2：审判日",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg",
+    "link": "https://movie.douban.com/subject/1291844/",
+    "director": "导演: 詹姆斯·卡梅隆 James Cameron",
+    "star": "主演: 阿诺·施瓦辛格 Arnold Schwarz...",
+    "releasetime": "1991",
+    "score": "8.6"
+}{
+    "index": "207",
+    "title": "小萝莉的猴神大叔",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510956726.jpg",
+    "link": "https://movie.douban.com/subject/26393561/",
+    "director": "导演: 卡比尔·汗 Kabir Khan",
+    "star": "主演: 萨尔曼·汗 Salman Khan / 哈莎莉·马...",
+    "releasetime": "2015",
+    "score": "8.5"
+}{
+    "index": "208",
+    "title": "源代码",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p988260245.jpg",
+    "link": "https://movie.douban.com/subject/3075287/",
+    "director": "导演: 邓肯·琼斯 Duncan Jones",
+    "star": "主演: 杰克·吉伦哈尔 Jake Gyllenhaal / ...",
+    "releasetime": "2011",
+    "score": "8.4"
+}{
+    "index": "209",
+    "title": "撞车",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p659411589.jpg",
+    "link": "https://movie.douban.com/subject/1388216/",
+    "director": "导演: 保罗·哈吉斯 Paul Haggis",
+    "star": "主演: 桑德拉·布洛克 Sandra Bullock / ...",
+    "releasetime": "2004",
+    "score": "8.6"
+}{
+    "index": "210",
+    "title": "步履不停",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p672446737.jpg",
+    "link": "https://movie.douban.com/subject/2222996/",
+    "director": "导演: 是枝裕和 Hirokazu Koreeda",
+    "star": "主演: 阿部宽 Hiroshi Abe / 夏川结衣 Yu...",
+    "releasetime": "2008",
+    "score": "8.8"
+}{
+    "index": "211",
+    "title": "再次出发之纽约遇见你",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg",
+    "link": "https://movie.douban.com/subject/6874403/",
+    "director": "导演: 约翰·卡尼 John Carney",
+    "star": "主演: 凯拉·奈特莉 Keira Knightley / 马克...",
+    "releasetime": "2013",
+    "score": "8.5"
+}{
+    "index": "212",
+    "title": "新龙门客栈",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg",
+    "link": "https://movie.douban.com/subject/1292287/",
+    "director": "导演: 李惠民 Raymond Lee",
+    "star": "主演: 张曼玉 Maggie Cheung / 林青霞 Brigitte ...",
+    "releasetime": "1992",
+    "score": "8.5"
+}{
+    "index": "213",
+    "title": "初恋这件小事",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg",
+    "link": "https://movie.douban.com/subject/4739952/",
+    "director": "导演: 普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn / 华森·波克彭...<br>\n                            2010&nbsp;/&nbsp;泰国&nbsp;/&nbsp;剧情 喜剧 爱情\n                        </p>\n\n                        \n                        <div class=\"star\">\n                                <span class=\"rating4-t\"></span>\n                                <span class=\"rating_num\" property=\"v:average\">8.3</span>\n                                <span property=\"v:best\" content=\"10.0\"></span>\n                                <span>583640人评价</span>\n                        </div>\n\n                            <p class=\"quote\">\n                                <span class=\"inq\">黑小鸭速效美白记。</span>\n                            </p>\n                    </div>\n                </div>\n            </div>\n        </li>\n        <li>\n            <div class=\"item\">\n                <div class=\"pic\">\n                    <em class=\"\">214</em>\n                    <a href=\"https://movie.douban.com/subject/1292270/\">\n                        <img width=\"100\" alt=\"梦之安魂曲\" src=\"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p884936202.jpg\" class=\"\">\n                    </a>\n                </div>\n                <div class=\"info\">\n                    <div class=\"hd\">\n                        <a href=\"https://movie.douban.com/subject/1292270/\" class=\"\">\n                            <span class=\"title\">梦之安魂曲</span>\n                                    <span class=\"title\">&nbsp;/&nbsp;Requiem for a Dream</span>\n                                <span class=\"other\">&nbsp;/&nbsp;噩梦挽歌(台)  /  迷上瘾(港)</span>\n                        </a>\n\n\n                            <span class=\"playable\">[可播放]</span>\n                    </div>\n                    <div class=\"bd\">\n                        <p class=\"\">\n                            导演: 达伦·阿伦诺夫斯基 Darren Aronofsky",
+    "star": "主演: 艾伦·伯斯汀 Ellen Bur...",
+    "releasetime": "2000",
+    "score": "8.7"
+}{
+    "index": "215",
+    "title": "爱在午夜降临前",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg",
+    "link": "https://movie.douban.com/subject/10808442/",
+    "director": "导演: 理查德·林克莱特 Richard Linklater",
+    "star": "主演: 伊桑·霍克 Ethan Hawke ...",
+    "releasetime": "2013",
+    "score": "8.8"
+}{
+    "index": "216",
+    "title": "天书奇谭",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p842504080.jpg",
+    "link": "https://movie.douban.com/subject/1428581/",
+    "director": "导演: 王树忱 Shuchen Wang / 钱运达 Yunda Qian",
+    "star": "主演: 丁建华 Jianhua Din...",
+    "releasetime": "1983(中国大陆) / 2019(中国大陆重映)",
+    "score": "9.1"
+}{
+    "index": "217",
+    "title": "东京物语",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910832390.jpg",
+    "link": "https://movie.douban.com/subject/1291568/",
+    "director": "导演: 小津安二郎 Yasujirô Ozu",
+    "star": "主演: 笠智众 Chishû Ryû / 原节...",
+    "releasetime": "1953",
+    "score": "9.2"
+}{
+    "index": "218",
+    "title": "无耻混蛋",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p770734475.jpg",
+    "link": "https://movie.douban.com/subject/1438652/",
+    "director": "导演: Quentin Tarantino",
+    "star": "主演: 布拉德·皮特 Brad Pitt / 梅拉尼·罗兰 M...",
+    "releasetime": "2009",
+    "score": "8.5"
+}{
+    "index": "219",
+    "title": "城市之光",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2170238803.jpg",
+    "link": "https://movie.douban.com/subject/1293908/",
+    "director": "导演: Charles Chaplin",
+    "star": "主演: 查理·卓别林 Charles Chaplin / 弗吉尼亚·...",
+    "releasetime": "1931",
+    "score": "9.3"
+}{
+    "index": "220",
+    "title": "绿里奇迹",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg",
+    "link": "https://movie.douban.com/subject/1300374/",
+    "director": "导演: Frank Darabont",
+    "star": "主演: 汤姆·汉克斯 Tom Hanks / 大卫·摩斯 David M...",
+    "releasetime": "1999",
+    "score": "8.7"
+}{
+    "index": "221",
+    "title": "海蒂和爷爷",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2332944143.jpg",
+    "link": "https://movie.douban.com/subject/25958717/",
+    "director": "导演: 阿兰·葛斯彭纳 Alain Gsponer",
+    "star": "主演: 阿努克·斯特芬 Anuk Steffen /...",
+    "releasetime": "2015",
+    "score": "9.1"
+}{
+    "index": "222",
+    "title": "彗星来的那一夜",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187896711.jpg",
+    "link": "https://movie.douban.com/subject/25807345/",
+    "director": "导演: 詹姆斯·沃德·布柯特 James Ward Byrkit",
+    "star": "主演: 艾米丽·芭尔多尼 Em...",
+    "releasetime": "2013",
+    "score": "8.5"
+}{
+    "index": "223",
+    "title": "这个男人来自地球",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513303986.jpg",
+    "link": "https://movie.douban.com/subject/2300586/",
+    "director": "导演: 理查德·沙因克曼 Richard Schenkman",
+    "star": "主演: 大卫·李·史密斯 David ...",
+    "releasetime": "2007",
+    "score": "8.5"
+}{
+    "index": "224",
+    "title": "E.T. 外星人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p984732992.jpg",
+    "link": "https://movie.douban.com/subject/1294638/",
+    "director": "导演: Steven Spielberg",
+    "star": "主演: Henry Thomas / Dee Wallace / Robert MacNa...",
+    "releasetime": "1982",
+    "score": "8.5"
+}{
+    "index": "225",
+    "title": "末路狂花",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p794583044.jpg",
+    "link": "https://movie.douban.com/subject/1291992/",
+    "director": "导演: 雷德利·斯科特 Ridley Scott",
+    "star": "主演: 吉娜·戴维斯 Geena Davis / 苏...",
+    "releasetime": "1991",
+    "score": "8.7"
+}{
+    "index": "226",
+    "title": "血钻",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg",
+    "link": "https://movie.douban.com/subject/1428175/",
+    "director": "导演: 爱德华·兹威克 Edward Zwick",
+    "star": "主演: 莱昂纳多·迪卡普里奥 Leonardo ...",
+    "releasetime": "2006",
+    "score": "8.6"
+}{
+    "index": "227",
+    "title": "勇闯夺命岛",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p636048104.jpg",
+    "link": "https://movie.douban.com/subject/1292728/",
+    "director": "导演: 迈克尔·贝 Michael Bay",
+    "star": "主演: 肖恩·康纳利 Sean Connery / 尼古拉...",
+    "releasetime": "1996",
+    "score": "8.6"
+}{
+    "index": "228",
+    "title": "聚焦",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg",
+    "link": "https://movie.douban.com/subject/25954475/",
+    "director": "导演: 托马斯·麦卡锡 Thomas McCarthy",
+    "star": "主演: 马克·鲁弗洛 Mark Ruffalo /...",
+    "releasetime": "2015",
+    "score": "8.8"
+}{
+    "index": "229",
+    "title": "2001太空漫游",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792189453.jpg",
+    "link": "https://movie.douban.com/subject/1292226/",
+    "director": "导演: 斯坦利·库布里克 Stanley Kubrick",
+    "star": "主演: 凯尔·杜拉 Keir Dullea / ...",
+    "releasetime": "1968",
+    "score": "8.7"
+}{
+    "index": "230",
+    "title": "变脸",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173855883.jpg",
+    "link": "https://movie.douban.com/subject/1292659/",
+    "director": "导演: 吴宇森 John Woo",
+    "star": "主演: 约翰·特拉沃尔塔 John Travolta / 尼古拉斯...",
+    "releasetime": "1997",
+    "score": "8.4"
+}{
+    "index": "231",
+    "title": "发条橙",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p529908155.jpg",
+    "link": "https://movie.douban.com/subject/1292233/",
+    "director": "导演: Stanley Kubrick",
+    "star": "主演: Malcolm McDowell / Patrick Magee / Michael...",
+    "releasetime": "1971",
+    "score": "8.5"
+}{
+    "index": "232",
+    "title": "秒速5厘米",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p982896012.jpg",
+    "link": "https://movie.douban.com/subject/2043546/",
+    "director": "导演: 新海诚 Makoto Shinkai",
+    "star": "主演: 水桥研二 Kenji Mizuhashi / 近藤好美 ...",
+    "releasetime": "2007",
+    "score": "8.3"
+}{
+    "index": "233",
+    "title": "黄金三镖客",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2101693489.jpg",
+    "link": "https://movie.douban.com/subject/1401118/",
+    "director": "导演: Sergio Leone",
+    "star": "主演: Clint Eastwood / Eli Wallach / Lee Van Cleef",
+    "releasetime": "1966",
+    "score": "9.1"
+}{
+    "index": "234",
+    "title": "黑鹰坠落",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910900710.jpg",
+    "link": "https://movie.douban.com/subject/1291824/",
+    "director": "导演: 雷德利·斯科特 Ridley Scott",
+    "star": "主演: 乔什·哈奈特 Josh Hartnett / ...",
+    "releasetime": "2001",
+    "score": "8.6"
+}{
+    "index": "235",
+    "title": "卡萨布兰卡",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244791866.jpg",
+    "link": "https://movie.douban.com/subject/1296753/",
+    "director": "导演: 迈克尔·柯蒂兹 Michael Curtiz",
+    "star": "主演: 亨弗莱·鲍嘉 Humphrey Bogart...",
+    "releasetime": "1942",
+    "score": "8.6"
+}{
+    "index": "236",
+    "title": "非常嫌疑犯",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537319495.jpg",
+    "link": "https://movie.douban.com/subject/1292214/",
+    "director": "导演: 布莱恩·辛格 Bryan Singer",
+    "star": "主演: 史蒂芬·鲍德温 Stephen Baldwin /...",
+    "releasetime": "1995",
+    "score": "8.6"
+}{
+    "index": "237",
+    "title": "国王的演讲",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768879237.jpg",
+    "link": "https://movie.douban.com/subject/4023638/",
+    "director": "导演: 汤姆·霍珀 Tom Hooper",
+    "star": "主演: 柯林·菲尔斯 Colin Firth / 杰弗里·...",
+    "releasetime": "2010",
+    "score": "8.3"
+}{
+    "index": "238",
+    "title": "我爱你",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1075591188.jpg",
+    "link": "https://movie.douban.com/subject/5908478/",
+    "director": "导演: 秋昌民 Chang-min Choo",
+    "star": "主演: 宋在河 Jae-ho Song / 李顺载 Soon-jae...",
+    "releasetime": "2011",
+    "score": "9.0"
+}{
+    "index": "239",
+    "title": "千钧一发",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg",
+    "link": "https://movie.douban.com/subject/1300117/",
+    "director": "导演: 安德鲁·尼科尔 Andrew Niccol",
+    "star": "主演: 伊桑·霍克 Ethan Hawke / 乌玛...",
+    "releasetime": "1997",
+    "score": "8.7"
+}{
+    "index": "240",
+    "title": "美国丽人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p571671715.jpg",
+    "link": "https://movie.douban.com/subject/1292062/",
+    "director": "导演: 萨姆·门德斯 Sam Mendes",
+    "star": "主演: 凯文·史派西 Kevin Spacey / 安妮特...",
+    "releasetime": "1999",
+    "score": "8.5"
+}{
+    "index": "241",
+    "title": "遗愿清单",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p708613284.jpg",
+    "link": "https://movie.douban.com/subject/1867345/",
+    "director": "导演: 罗伯·莱纳 Rob Reiner",
+    "star": "主演: 杰克·尼科尔森 Jack Nicholson / 摩根...",
+    "releasetime": "2007",
+    "score": "8.5"
+}{
+    "index": "242",
+    "title": "碧海蓝天",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455722535.jpg",
+    "link": "https://movie.douban.com/subject/1300960/",
+    "director": "导演: Luc Besson",
+    "star": "主演: 让-马克·巴尔 Jean-Marc Barr / 让·雷诺 Jean Re...",
+    "releasetime": "1988",
+    "score": "8.7"
+}{
+    "index": "243",
+    "title": "功夫",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg",
+    "link": "https://movie.douban.com/subject/1291543/",
+    "director": "导演: 周星驰 Stephen Chow",
+    "star": "主演: 周星驰 Stephen Chow / 元秋 Qiu Yuen / ...",
+    "releasetime": "2004",
+    "score": "8.3"
+}{
+    "index": "244",
+    "title": "疯狂的麦克斯4：狂暴之路",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2236181653.jpg",
+    "link": "https://movie.douban.com/subject/3592854/",
+    "director": "导演: 乔治·米勒 George Miller",
+    "star": "主演: 汤姆·哈迪 Tom Hardy / 查理兹·塞...",
+    "releasetime": "2015",
+    "score": "8.6"
+}{
+    "index": "245",
+    "title": "荒岛余生",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2207673534.jpg",
+    "link": "https://movie.douban.com/subject/1298653/",
+    "director": "导演: 罗伯特·泽米吉斯 Robert Zemeckis",
+    "star": "主演: 汤姆·汉克斯 Tom Hanks / ...",
+    "releasetime": "2000",
+    "score": "8.5"
+}{
+    "index": "246",
+    "title": "英国病人",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2408623752.jpg",
+    "link": "https://movie.douban.com/subject/1291853/",
+    "director": "导演: 安东尼·明格拉 Anthony Minghella",
+    "star": "主演: 拉尔夫·费因斯 Ralph Fien...",
+    "releasetime": "1996",
+    "score": "8.5"
+}{
+    "index": "247",
+    "title": "荒野生存",
+    "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p465687407.jpg",
+    "link": "https://movie.douban.com/subject/1905462/",
+    "director": "导演: 西恩·潘 Sean Penn",
+    "star": "主演: 埃米尔·赫斯基 Emile Hirsch / 马西娅·...",
+    "releasetime": "2007",
+    "score": "8.6"
+}{
+    "index": "248",
+    "title": "海盗电台",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p769608791.jpg",
+    "link": "https://movie.douban.com/subject/3007773/",
+    "director": "导演: 理查德·柯蒂斯 Richard Curtis",
+    "star": "主演: 比尔·奈伊 Bill Nighy / 肯尼...",
+    "releasetime": "2009",
+    "score": "8.6"
+}{
+    "index": "249",
+    "title": "枪火",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1538646661.jpg",
+    "link": "https://movie.douban.com/subject/1300741/",
+    "director": "导演: 杜琪峰 Johnnie To",
+    "star": "主演: 吴镇宇 Francis Ng / 任达华 Simon Yam / ...",
+    "releasetime": "1999",
+    "score": "8.7"
+}{
+    "index": "250",
+    "title": "驴得水",
+    "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2393044761.jpg",
+    "link": "https://movie.douban.com/subject/25921812/",
+    "director": "导演: 周申 Shen Zhou / 刘露 Lu Liu",
+    "star": "主演: 任素汐 Suxi Ren / 大力 Da Li ...",
+    "releasetime": "2016",
+    "score": "8.3"
+}
