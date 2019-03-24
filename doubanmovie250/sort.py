@@ -27,7 +27,6 @@ def write_to_file(content):
         f.write(output)
 
 def sort_by_score(all_results):
-#     print(type(items))
     all_results.sort(key = lambda k: (k.get('score', 0)), reverse = True)
     for item in all_results:
         write_to_file(item)
@@ -39,12 +38,8 @@ def main(url):
         page_url = url + '?start=' + str(offset) + '&filter='
         html = get_one_page(page_url)
         result = parse_one_page(html)
-        # print(type(result))
-        # all_result.append(result)
         for item in result:
-                # print(type(item))
-                # write_to_file(item)
-                all_results.append(item)
+            all_results.append(item)
     sort_by_score(all_results)
 
 if __name__ == '__main__':
