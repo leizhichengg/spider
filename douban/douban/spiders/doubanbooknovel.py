@@ -10,7 +10,6 @@ class DoubanBook(scrapy.Spider):
     def parse(self, response):
         for item in response.xpath('//ul[@class="subject-list"]/li'):
             yield {
-                # 'index': index,
                 'title': item.xpath('.//div[@class="info"]/h2/a/@title').get(),
                 'image': item.xpath('.//div[@class="pic"]/a/img/@src').get(),
                 'link': item.xpath('.//div[@class="pic"]/a/@href').get(),

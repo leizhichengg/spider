@@ -65,9 +65,13 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'douban.pipelines.DoubanPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    # 'douban.pipelines.DoubanPipeline': 300,
+    # 'douban.pipelines.DoubanMovies250Pipeline': 300,
+    # 'douban.pipelines.DoubanBookNovelPipeline': 1000,
+    'douban.pipelines.DoubanBookAllPipeline': 10000,
+    
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

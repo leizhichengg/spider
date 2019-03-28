@@ -14,7 +14,7 @@ class DoubanMovies250(scrapy.Spider):
                 'title': item.xpath('.//div[@class="info"]/div/a/span[@class="title"]/text()').get(),
                 'image': item.xpath('.//div[@class="pic"]/a/img/@src').get(),
                 'link': item.xpath('.//div[@class="pic"]/a/@href').get(),
-                'releasetime': item.xpath('.//div[@class="info"]/div[@class="bd"]/p').re(r'.*?(\d{4})'),
+                'releasetime': item.xpath('.//div[@class="info"]/div[@class="bd"]/p').re(r'.*?(\d{4})')[0],
                 'score': item.xpath('.//div[@class="info"]/div[@class="bd"]/div[@class="star"]/span[2]/text()').get(),
             }
 
