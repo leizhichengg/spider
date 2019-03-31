@@ -68,7 +68,7 @@ ROBOTSTXT_OBEY = True
 ITEM_PIPELINES = {
     # 'douban.pipelines.DoubanPipeline': 300,
     # 'douban.pipelines.DoubanMovies250Pipeline': 300,
-    'douban.pipelines.DoubanBookNovelPipeline': 1000,
+    # 'douban.pipelines.DoubanBookNovelPipeline': 1000,
     # 'douban.pipelines.DoubanBookAllPipeline': 10000,
     
 }
