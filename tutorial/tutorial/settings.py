@@ -88,3 +88,11 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+# Enables scheduling storing requests queue in redis.
+SCHEDULER = "scrapy_redis.dupefilter.RFDupeFilter"
+
+# Store scraped item in redis for post-processing.
+ITEM_PIPELINES = {
+    'scrapy_redis.pipelines.RedisPipeline': 300
+}
