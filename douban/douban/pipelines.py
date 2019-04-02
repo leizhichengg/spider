@@ -18,7 +18,8 @@ class DoubanMovies250Pipeline(object):
         self.file.close()
 
     def process_item(self, item, spider):
-        output = json.dumps(item, indent=4, separators=(',', ': '), ensure_ascii=False)
+        data = dict(item)
+        output = json.dumps(data, indent=4, separators=(',', ': '), ensure_ascii=False)
         self.file.write(output)
         return item
 

@@ -1,10 +1,15 @@
 import scrapy
+from tutorial.items import TutorialItem
+from scrapy_redis.spiders import RedisSpider
 
-class QuotesSpider(scrapy.Spider):
+class QuotesSpider(RedisSpider):
     name = "quotes"
-    start_urls = [
-            'http://quotes.toscrape.com/page/1',
-        ]
+
+    redis_key = 'myspider:start_urls'
+    
+    # start_urls = [
+    #         'http://quotes.toscrape.com/page/1',
+    #     ]
 
     def parse(self, response):
         for quote in response.css('div.quote'):

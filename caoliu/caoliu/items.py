@@ -8,15 +8,7 @@
 import scrapy
 
 
-class DoubanItem(scrapy.Item):
+class CaoliuItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
-
-class DoubanMovies250Item(scrapy.Item):
-    index = scrapy.Field()
-    title = scrapy.Field()
-    image = scrapy.Field()
-    link = scrapy.Field()
-    releasetime = scrapy.Field()
-    score = scrapy.Field()
